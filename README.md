@@ -1,4 +1,4 @@
-### Winter tech itu apa?
+### Tech winter itu apa?
 
 ![Profile views](https://komarev.com/ghpvc/?username=antonkomarev&style=flat&color=yellowgreen)<br>
 
